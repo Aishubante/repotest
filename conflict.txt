@@ -1,1 +1,2 @@
 Local conflicting changes
+Conflict changes in remote
